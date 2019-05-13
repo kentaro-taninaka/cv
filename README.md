@@ -1,7 +1,11 @@
+
+
+
+
+
 - [Facebook](https://www.facebook.com/kentaro.taninaka)
 - [Twitter](https://twitter.com/tnnk18)
 - [instagram](https://www.instagram.com/kentarotaninaka/)
-
 
 # cv
 
@@ -12,4 +16,9 @@
 
 - 2019 Department of Architecture Yokohama National University
 
-# works(unbuild)
+## What I think
+Architecture is   
+
+
+## works(unbuild)
+

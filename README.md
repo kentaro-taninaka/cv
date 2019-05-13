@@ -1,6 +1,6 @@
--[Facebook](https://www.facebook.com/kentaro.taninaka)
--[Twitter](https://twitter.com/tnnk18)
--[instagram](https://www.instagram.com/kentarotaninaka/)
+- [Facebook](https://www.facebook.com/kentaro.taninaka)
+- [Twitter](https://twitter.com/tnnk18)
+- [instagram](https://www.instagram.com/kentarotaninaka/)
 
 
 # cv
